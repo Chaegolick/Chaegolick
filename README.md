@@ -53,10 +53,10 @@
 </div>
 
 ## Стажировка
-<img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/ec57b915-36d1-48bf-8bec-46db7f16a414" />
+<img width="400" height="300" alt="Image" src="Стажировка_Yadro1.png" />
 
 ## Образование
-<img width="500" height="1400" alt="Image" src="https://github.com/user-attachments/assets/9c734c3d-6617-4124-87c4-a5ce0235a83c" />
+<img width="500" height="1400" alt="Image" src="Сертификат.png" />
 
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:mamaha.trus@yandex.ru)
