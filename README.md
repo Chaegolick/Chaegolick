@@ -56,7 +56,7 @@
 <img width="400" height="300" alt="Image" src="https://raw.githubusercontent.com/Chaegolick/Chaegolick/refs/heads/main/%D0%A1%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_Yadro1.png" />
 
 ## Образование
-<img width="500" height="1400" alt="Image" src="https://raw.githubusercontent.com/Chaegolick/Chaegolick/refs/heads/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.png" />
+<img width="500" height="1400" alt="Image" src="https://github.com/user-attachments/assets/4888aa19-09f8-4bc6-9a9b-0654294b0643" />
 
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:mamaha.trus@yandex.ru)
